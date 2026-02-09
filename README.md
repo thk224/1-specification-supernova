@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 * [Mumu Li](https://github.com/n3xta)
 * [Tae Kim](https://github.com/thk224)
+* [Xiongfeng Li](https://github.com/DaobaRoger12)
 
 ## Stakeholders
 
