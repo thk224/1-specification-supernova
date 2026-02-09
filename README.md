@@ -53,6 +53,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
+### Individual User
+
+**User Story #8:** As an individual user, I want to filter items by category (meat, dairy, vegetables, beverages) so that I can browse my fridge more easily. ![Activity Diagram - Filter by Category](diagrams/individual-8.svg)
+
+**User Story #10:** As an individual user, I want to receive expiration alerts so that I don't waste food. ![Activity Diagram - Expiration Alerts](diagrams/individual-10.svg)
+
+
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
