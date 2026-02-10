@@ -91,22 +91,26 @@ For busy individuals and communal living environments who struggle with food was
 
 **User Story #8:** As an individual user, I want to filter items by category (meat, dairy, vegetables, beverages) so that I can browse my fridge more easily.
 
- ![Activity Diagram - Filter by Category](diagrams/individual-8.svg)
+ ![Activity Diagram - Filter by Category](assets/diagrams/individual-8.svg)
 
 **User Story #10:** As an individual user, I want to receive expiration alerts so that I don't waste food. 
 
-![Activity Diagram - Expiration Alerts](diagrams/individual-10.svg)
+![Activity Diagram - Expiration Alerts](assets/diagrams/individual-10.svg)
 
 ### Group User
 
 **User Story #1:** As a group fridge user, I want to label items as mine or shared so that everyone knows what they are allowed to take.
 
- ![Activity Diagram - Filter by Category](diagrams/group-1.png)
+ ![Activity Diagram - Filter by Category](assets/diagrams/group-1.png)
 
  **User Story #3:** As a group fridge user, I want to locate my items easily so that I don’t mistake other people’s food for mine.
 
- ![Activity Diagram - Filter by Category](diagrams/group-3.png)
+ ![Activity Diagram - Filter by Category](assets/diagrams/group-3.png)
 
 ## Clickable Prototype
 
 [Clickable Prototype of Better Fridge](https://www.figma.com/proto/67LxaMQ52kScxfdWNGZHaD/Better-Fridge---Supernova?node-id=5-177&t=3V3UuV1PpNY93DmB-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A338&starting-point-node-id=5%3A177)
+
+Screenshots: 
+
+![Main Page](assets/screenshots/main-page.png) ![Switching Fridges](assets/screenshots/switching-fridges.png) ![Filtering Food Items](assets/screenshots/filter-selected.png) ![Food Items](assets/screenshots/item.png) ![AI Recipe Bot](assets/screenshots/ai.png) ![Editing a Fridge](assets/screenshots/edit-fridge.png)
